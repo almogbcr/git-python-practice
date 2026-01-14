@@ -171,3 +171,10 @@
 >#### +	user = "Almog"
 >####  	print(greet(user))
 >#### 
+
+
+## Task 3 - Undoing Commits
+### Usage git commit -amend -m "Text to repalce the wrong commit"
+>#### Change message of commit message,
+>#### Fix typo or Fix message if you wrote the wrong message 
+

@@ -114,6 +114,33 @@
 >      add app.py
 
 
-### 3.git show <commit-hash>
+### 3.git show 
+>commit 13c72cda65bc85077d95d9c3ef8110980f31f64f
+>Merge: b07310d f9e0246
+>Author: Almog Bachar <almogbcr@gmail.com>
+>Date:   Wed Jan 14 09:11:25 2026 +0200
+>
+>    decided to go with feature changes
+>
+>diff --cc app.py
+>index 8445c3e,3cdee47..3c3e887
+>--- a/app.py
+>+++ b/app.py
+>@@@ -1,10 -1,10 +1,11 @@@
+>  import datetime 
+>  
+>  def greet(name):
+>- 	cTime = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+>- 	return f"Welcome , {name} {cTime}!"
+>+ 	cTime = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
+>+ 	return f"Hello , {name} {cTime}!"
+>+ 
+> +
+>  if __name__ == "__main__":
+>  	
+> -	user = "Almog"
+> +	user = "Newbie"
+>  	print(greet(user))
+>
 
 

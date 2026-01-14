@@ -25,18 +25,18 @@
 
 ## Advanced Assignment
 ### 1.git log --oneline
-#### 13c72cd decided to go with feature changes
-#### f9e0246 Changed string formating on add-time
-#### b07310d Changed app.py on main
-#### 15f5877 changing app on main
-#### b052394 Merge edited feature/add-time
-#### fc6a1cf Change user==Almog
-#### a02ebb2 Change Hello to Welcome
-#### 2ef79a8 on feature/add-time added time
-#### d08fe94 fixed file name
-#### c92eae0 Fixed app.py content
-#### ff4229 Fixed app.py name
-#### d200586 add app.py
+>#### 13c72cd decided to go with feature changes
+>#### f9e0246 Changed string formating on add-time
+>#### b07310d Changed app.py on main
+>#### 15f5877 changing app on main
+>#### b052394 Merge edited feature/add-time
+>#### fc6a1cf Change user==Almog
+>#### a02ebb2 Change Hello to Welcome
+>#### 2ef79a8 on feature/add-time added time
+>#### d08fe94 fixed file name
+>#### c92eae0 Fixed app.py content
+>#### ff4229 Fixed app.py name
+>#### d200586 add app.py
 ### 2.git log --graph --all
 ### 3.git show <commit-hash>
 

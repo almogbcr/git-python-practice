@@ -1,5 +1,6 @@
 # Git Python Practice
 ## Base Assingment
+## git log --oneline --graph
 >* b7f870b forgot to commit deletions
 >* 1409acb Set advanced logs on diffrent folder
 >* 3f8c59c remove git-log.txt

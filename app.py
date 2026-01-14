@@ -1,10 +1,10 @@
-import datetime
+from datetime import datetime
 
 
 def greet(name):
-	cTime = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
+	timenow = datetime.now().strftime("%Y-%m-%d %H:%M")
 
-	return f"Hello , {name} {cTime}!"
+	return f"Hello , {name} {timenow}!"
 
 
 if __name__ == "__main__":

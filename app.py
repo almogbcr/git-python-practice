@@ -1,8 +1,9 @@
-from datetime import datetime
+import datetime
 
 
 def greet(name):
 	cTime = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
+
 	return f"Hello , {name} {cTime}!"
 
 

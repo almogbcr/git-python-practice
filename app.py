@@ -2,7 +2,7 @@ import datetime
 
 def greet(name):
 	cTime = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-	return f"Hello , {name} {cTime}!"
+	return f"Welcome , {name} {cTime}!"
 
 if __name__ == "__main__":
 	

@@ -24,7 +24,7 @@
 >* d200586 add app.py
 
 ## Advanced Assignment
-## First task
+## First task - Inspect History
 ### 1.git log --oneline
 >#### 13c72cd decided to go with feature changes
 >#### f9e0246 Changed string formating on add-time
@@ -144,4 +144,4 @@
 >####  	print(greet(user))
 >####
 
-
+## Task 2 - Diff Practice 

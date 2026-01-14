@@ -1,0 +1,30 @@
+80d750a Revert "Changed datetime import to 'from datetime import datetime'"
+5e4c08a Change timedate import
+4ae0387 Changed datetime import to 'from datetime import datetime'
+1fb6b2e get back before assignment 3 because I did not understand
+ede155e Merge branch 'main' of https://github.com/almogbcr/git-python-practice
+83056e0 Something broke
+2b012d7 Changed date time import
+728e965 Updated app.py
+2c5d549 add file on advanced
+7746575 Removed wrong named file
+d264939 Set update file with clause number
+276da02 added output of git log onefile graph
+b7f870b forgot to commit deletions
+1409acb Set advanced logs on diffrent folder
+3f8c59c remove git-log.txt
+d0fd01b changed file name
+7722b9f added gitdiff log
+c51b36c added log of bonus
+13c72cd decided to go with feature changes
+f9e0246 Changed string formating on add-time
+b07310d Changed app.py on main
+15f5877 changing app on main
+b052394 Merge edited feature/add-time
+fc6a1cf Change user==Almog
+a02ebb2 Change Hello to Welcome
+2ef79a8 on feature/add-time added time
+d08fe94 fixed file name
+c92eae0 Fixed app.py content
+5ff4229 Fixed app.py name
+d200586 add app.py

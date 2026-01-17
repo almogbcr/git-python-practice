@@ -8,7 +8,5 @@ def greet(name):
 
 
 if __name__ == "__main__":
-	user2 = "John"
-	print(greet(user2))
 	user = "Almog"
 	print(greet(user))

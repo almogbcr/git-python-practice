@@ -178,3 +178,15 @@
 >#### Change message of commit message,
 >#### Fix typo or Fix message if you wrote the wrong message 
 
+stash@{0}: WIP on main: 512d37b Update app.py
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   app.py
+	modified:   lesson3/README.MD
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Dropped refs/stash@{0} (625a2d1b9d43fad466ecc835bb4a2ea03ab56919)

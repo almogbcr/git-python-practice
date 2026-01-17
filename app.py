@@ -2,9 +2,9 @@ from datetime import datetime
 
 
 def greet(name):
-	timenow = datetime.now().strftime("%Y-%m-%d %H:%M")
+	now = datetime.now().strftime("%Y-%m-%d %H:%M")
 
-	return f"Hello , {name} {timenow}!"
+	return f"Hello , {name} {now}!"
 
 
 if __name__ == "__main__":
